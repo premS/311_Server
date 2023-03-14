@@ -9,4 +9,6 @@ Start the server
 Starts the app in port 3000
 Takes about 25s in my 12G laptop to initialize the db in memory from the csv file.
 
+You can test localhost:3000 to see `Hello World` once the server starts up.
+
 After that UI should be able to hit the endpoints as needed.
