@@ -11,4 +11,6 @@ Takes about 25s in my 12G laptop to initialize the db in memory from the csv fil
 
 You can test localhost:3000 to see `Hello World` once the server starts up.
 
+Once you see [ { Count: 6014200 } ] in the server console ~30s after node app.js, UI can now be run.
+
 After that UI should be able to hit the endpoints as needed.
